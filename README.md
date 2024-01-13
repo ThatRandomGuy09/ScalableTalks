@@ -1,4 +1,4 @@
-I am trying to learn the use of MonoRepo through Turborepo and will be updating my Process here. I am building a Chat App, TechStacks till now used 
+I am trying to learn the use of MonoRepo through Turborepo and will be updating my Process here. I am building a Chat App, Tech Stacks till now used 
 NextJs, Turborepo, NodeJs, TypeScript.
 
 Done with the Setup:- https://turbo.build/repo/docs/getting-started/create-new
