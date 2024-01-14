@@ -3,3 +3,5 @@ NextJs, Turborepo, NodeJs, TypeScript.
 
 Done with the Setup:- https://turbo.build/repo/docs/getting-started/create-new
 Had my Packages done with Workspaces:- https://docs.npmjs.com/cli/v10/using-npm/workspaces
+
+Started by Creating the HTTP server.
