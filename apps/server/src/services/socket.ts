@@ -1,6 +1,9 @@
 import { Server } from "socket.io";
 import Redis from "ioredis";
 
+
+
+
 const pub = new Redis({
   host: "redis-1db44290-scaleabletalks.a.aivencloud.com",
   port: 18760,
