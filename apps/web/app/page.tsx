@@ -10,7 +10,7 @@ export default function Page() {
   return (
     <div>
       <div>
-      <input
+        <input
           onChange={(e) => setMessage(e.target.value)}
           className={classes["chat-input"]}
           placeholder="Message..."
