@@ -1,5 +1,6 @@
 import { Server } from "socket.io";
 import Redis from "ioredis";
+import prismaClient from "./prisma";
 
 
 
@@ -46,6 +47,11 @@ class SocketService {
       if (channel === "MESSAGES") {
         console.log("new message from redis", message);
         io.emit("message", message);
+        await prismaClient.message.create({
+          data: {
+            text: message,
+          },
+        })
       }
     });
   }
