@@ -63,7 +63,4 @@ During the development of this real-time chat application, several key learnings
 - **Redis Connection:** Learning how to connect sockets to Redis, a crucial step for achieving scalability in a real-time system.
 
 These learnings contribute to the overall knowledge of building scalable and responsive real-time applications.
-
-Feel free to explore and enhance the application further based on these foundations. Happy coding!
-
-- Vansh Vasishtha
+Tried Writing The journey of How I made this app and what I learned Hope  you like it. Happy coding! 
