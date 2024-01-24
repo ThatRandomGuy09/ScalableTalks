@@ -6,3 +6,9 @@ Had my Packages done with Workspaces:- https://docs.npmjs.com/cli/v10/using-npm/
 
 Started by Creating the HTTP server and initializing the Socket Library in the Workspace, so that it can emit and receive the Messages 
 Build the Basic Frontend after this, so that I can show the message in the console.
+
+Database Setup and tested, Working Fine
+
+
+
+PS- Will be formating this nicely, once the Project gets done
