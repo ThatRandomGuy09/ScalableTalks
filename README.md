@@ -65,3 +65,5 @@ During the development of this real-time chat application, several key learnings
 These learnings contribute to the overall knowledge of building scalable and responsive real-time applications.
 
 Feel free to explore and enhance the application further based on these foundations. Happy coding!
+
+- Vansh Vasishtha
