@@ -6,17 +6,17 @@ import prismaClient from "./prisma";
 
 
 const pub = new Redis({
-  host: "redis-1db44290-scaleabletalks.a.aivencloud.com",
+  host: "",
   port: 18760,
   username: "default",
-  password: "AVNS_KR9MgbEr7EhHr3Gvwi6",
+  password: "",
 });
 
 const sub = new Redis({
-  host: "redis-1db44290-scaleabletalks.a.aivencloud.com",
+  host: "",
   port: 18760,
   username: "default",
-  password: "AVNS_KR9MgbEr7EhHr3Gvwi6",
+  password: "",
 });
 
 class SocketService {
